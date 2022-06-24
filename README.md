@@ -1,5 +1,11 @@
 # Gold—miner
 
-21年学Java的时候，练手做的黄金矿工小程序
+A gold miner applet developed in java in July 2021.
 
-主程序为Gamwin.java
+**How to start the program?**
+
+run Gamewin.java
+
+**Program screenshot**
+
+![image-20220624120816687](D:\Java code\Gold-miner\screenshot.png)
