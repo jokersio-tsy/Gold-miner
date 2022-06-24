@@ -8,4 +8,4 @@ run Gamewin.java
 
 **Program screenshot**
 
-![image-20220624120816687](public/screenshot.png)
+![image-20220624120816687](screenshot.png)
